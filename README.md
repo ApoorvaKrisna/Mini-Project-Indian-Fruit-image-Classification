@@ -1,3 +1,3 @@
 # Mini-Project
 
-ML model for Image Fruit Classification
+ML model for Fruit Image Classification
